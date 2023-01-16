@@ -1,0 +1,12 @@
+/home/pcris21/projetos/mvc1/dist/mvc1
+/home/pcris21/projetos/mvc1/dist/dist/web.config
+/home/pcris21/projetos/mvc1/dist/appsettings.Development.json
+/home/pcris21/projetos/mvc1/dist/appsettings.json
+/home/pcris21/projetos/mvc1/dist/dist/appsettings.Development.json
+/home/pcris21/projetos/mvc1/dist/dist/appsettings.json
+/home/pcris21/projetos/mvc1/dist/dist/mvc1.deps.json
+/home/pcris21/projetos/mvc1/dist/dist/mvc1.runtimeconfig.json
+/home/pcris21/projetos/mvc1/dist/mvc1.dll
+/home/pcris21/projetos/mvc1/dist/mvc1.deps.json
+/home/pcris21/projetos/mvc1/dist/mvc1.runtimeconfig.json
+/home/pcris21/projetos/mvc1/dist/mvc1.pdb
